@@ -91,7 +91,7 @@ if (strlen($_SESSION['aid'] == 0)) {
 
                                             <div class="form-row">
                                                 <div class="col-md-6 mb-10">
-                                                    <label for="validationCustom03">Cow number</label>
+                                                    <label for="validationCustom03">Cow number 11111111111111</label>
                                                     <input type="text" class="form-control input-custom " id="validationCustom03" placeholder="Enter the cow's number" name="category" required>
                                                     <div class="invalid-feedback">Cow Number</div>
                                                 </div>
